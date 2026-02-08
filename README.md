@@ -231,7 +231,7 @@ u-siop-terminal/
 ├── prompts.py          # System prompts + denial templates
 ├── ui.py               # Custom UI components + CSS injection
 ├── data/
-│   ├── umbrella_corp_policies.pdf
+│   ├── your_policies.pdf
 │   └── vectorstore/    # ChromaDB persistence
 ├── .env                # API keys (not committed)
 └── requirements.txt

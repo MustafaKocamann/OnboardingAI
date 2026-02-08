@@ -42,8 +42,7 @@ env/
 .ipynb_checkpoints/
 
 # ChromaDB / Vector Store
-data/vectorstore/
-*.db
+data/
 
 # Chat History Database
 chat_history.db
